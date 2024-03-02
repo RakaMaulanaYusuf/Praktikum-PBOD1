@@ -1,3 +1,8 @@
+/*Nama : Raka Maulana Yusuf */
+/*NIM : 24060122140119 */
+/*Deskripsi : file main */
+/*Nama file : Main.java */
+
 public class Main {
   public static void main(String[] args) {
       
